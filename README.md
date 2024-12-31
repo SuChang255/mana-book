@@ -3,4 +3,4 @@ e-book for mana
 
 Add header
 
-Add tail
+Update tail
